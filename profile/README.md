@@ -36,7 +36,7 @@ In this organization, you'll find projects that explore various engineering appr
 - Discovering how low-level control affects performance
 
 ### Simulation Testing Discovery
-- Learning about [FoundationDB's approach to testing](https://apple.github.io/foundationdb/testing.html) and [TiggerBeetle](https://tigerbeetle.com/)
+- Learning about [FoundationDB's approach to testing](https://apple.github.io/foundationdb/testing.html), [TiggerBeetle](https://tigerbeetle.com/) and [Turso](https://turso.tech/)
 - Experimenting with deterministic testing techniques
 - Curious about what comes after traditional testing methods
 
